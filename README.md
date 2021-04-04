@@ -20,7 +20,18 @@ Assignment 4 - Storyboarding
 [Storyboard Natalie Ahern IMM 200 Spring 2021 (1).pdf](https://github.com/nmahern/IMM-200-Portfolio/files/6253838/Storyboard.Natalie.Ahern.IMM.200.Spring.2021.pdf)
 
 Assignment 5 - Sketches
-[]
+[website pg 1.pdf]
+[website pg 2.pdf]
+[website pg 3.pdf]
+[website pg 4.pdf]
+[website pg 5.pdf]
+
+[moblie pg 1.pdf]
+[mobile pg 2.pdf]
+[mobile pg 3.pdf]
+[mobile pg 4.pdf]
+[mobile pg 5.pdf]
+
 
 Assignment 6 - Prototypes
 []
