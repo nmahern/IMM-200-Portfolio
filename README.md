@@ -15,3 +15,13 @@ Assignment 2 - Persona Document
 
 Assignment 3 - Competitor Analysis
 [Competitor Website Analysis IMM 200 Spring 2021.pdf](https://github.com/nmahern/IMM-200-Portfolio/files/6058972/Competitor.Website.Analysis.IMM.200.Spring.2021.pdf)
+
+Assignment 4 - Storyboarding
+Storyboard Natalie Ahern IMM 200 Spring 2021 (1).pdf 
+
+
+Assignment 5 - Sketches
+
+
+Assignment 6 - Prototypes
+
