@@ -45,12 +45,10 @@ Assignment 5 - Sketches
 Assignment 6 - Prototypes
 [My Website Prototype](https://marvelapp.com/prototype/6j50dec)
 
-Assignment 7 - Creating coded proto-types/websites without knowing how to code
-[Creating coded proto-types]
+Assignment 7 - Creating coded proto-types/websites without knowing how to code[Creating coded proto-types]
 (https://imm-portfolio.webflow.io/) 
 (https://masks-on-prototype.webflow.io/)
 
-Assignment 8 – Career Research Assignment
-[Assignment 8 - Career Research Assignment Worksheet.pdf](https://github.com/nmahern/IMM-200-Portfolio/files/6481738/Assignment.8.-.Career.Research.Assignment.Worksheet.pdf)
+Assignment 8 – Career Research Assignment[Assignment 8 - Career Research Assignment Worksheet.pdf](https://github.com/nmahern/IMM-200-Portfolio/files/6481738/Assignment.8.-.Career.Research.Assignment.Worksheet.pdf)
 
 Final Project [Masks On!.zip](https://github.com/nmahern/IMM-200-Portfolio/files/6481769/Masks.On.zip)
