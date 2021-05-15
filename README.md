@@ -47,3 +47,7 @@ Assignment 6 - Prototypes
 
 Assignment 7 - Creating coded proto-types/websites without knowing how to code [coded Prototypes] (https://imm-portfolio.webflow.io/) 
 (https://masks-on-prototype.webflow.io/)
+
+Assignment 8 – Career Research Assignment [Assignment.8.-.Career.Research.Assignment.Worksheet](https://github.com/nmahern/IMM-200-Portfolio/files/6481847/Assignment.8.-.Career.Research.Assignment.Worksheet.pdf)
+
+Final Project [Masks.On.](https://github.com/nmahern/IMM-200-Portfolio/files/6481848/Masks.On.zip)
