@@ -50,6 +50,6 @@ Assignment 7 - Creating coded proto-types/websites without knowing how to code
 (https://masks-on-prototype.webflow.io/)
 
 Assignment 8 – Career Research Assignment
-[Career Reasearch Assignemt] (Assignment 8 - Career Research Assignment Worksheet.pdf)
+[Career Reasearch Assignemt](Assignment 8 - Career Research Assignment Worksheet.pdf)
 
 Final Project(
