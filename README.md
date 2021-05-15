@@ -45,7 +45,7 @@ Assignment 5 - Sketches
 Assignment 6 - Prototypes
 [My Website Prototype](https://marvelapp.com/prototype/6j50dec)
 
-Assignment 7 - Creating coded proto-types/websites without knowing how to code[Creating coded proto-types]
+Assignment 7 - Creating coded proto-types/websites without knowing how to code [Creating coded proto-types]
 (https://imm-portfolio.webflow.io/) 
 (https://masks-on-prototype.webflow.io/)
 
