@@ -50,4 +50,4 @@ Assignment 7 - Creating coded proto-types/websites without knowing how to code [
 
 Assignment 8 – Career Research Assignment [Assignment.8.-.Career.Research.Assignment.Worksheet](https://github.com/nmahern/IMM-200-Portfolio/files/6481847/Assignment.8.-.Career.Research.Assignment.Worksheet.pdf)
 
-Final Project (index.html)
+Final Project
