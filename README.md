@@ -50,4 +50,4 @@ Assignment 7 - Creating coded proto-types/websites without knowing how to code [
 
 Assignment 8 – Career Research Assignment [Assignment.8.-.Career.Research.Assignment.Worksheet](https://github.com/nmahern/IMM-200-Portfolio/files/6481847/Assignment.8.-.Career.Research.Assignment.Worksheet.pdf)
 
-Final Project [Final Project- Masks On!] (file:///C:/Users/natal/Documents/DCCC!/UX%20design%20IMM%20200%20spring%202021%20DCCC/index.html)
+Final Project [Final Project- Masks On!](file:///C:/Users/natal/Documents/DCCC!/UX%20design%20IMM%20200%20spring%202021%20DCCC/index.html)
